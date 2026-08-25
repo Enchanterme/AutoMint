@@ -17,7 +17,6 @@ frontend/.env.*.local
 # OS / editor
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 
 # TypeScript build cache
@@ -29,3 +28,5 @@ frontend/tsconfig.tsbuildinfo
 .agents/
 issue.md    
 skills-lock.json
+config.bat
+node_modules

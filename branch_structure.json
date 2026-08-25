@@ -1,0 +1,21 @@
+{
+  "default_branch": "testnet-implementation",
+  "branches": [
+    "accrual-registry-updates",
+    "fix-soroban-resource-fees",
+    "origin",
+    "testnet-implementation"
+  ],
+  "parent": {
+    "accrual-registry-updates": "testnet-implementation",
+    "fix-soroban-resource-fees": "testnet-implementation",
+    "origin": "testnet-implementation",
+    "testnet-implementation": null
+  },
+  "order": [
+    "testnet-implementation",
+    "accrual-registry-updates",
+    "fix-soroban-resource-fees",
+    "origin"
+  ]
+}
